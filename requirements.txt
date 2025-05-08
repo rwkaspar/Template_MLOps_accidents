@@ -14,7 +14,7 @@ pathlib
 scikit-learn
 imbalanced-learn
 joblib
-bentoml
+bentoml==1.4.12
 #sys
 pydantic
 requests
